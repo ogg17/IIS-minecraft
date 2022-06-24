@@ -1,5 +1,5 @@
 #Custom Ore Generation 1.2.24 Config Options
-#Fri Jun 17 19:49:36 MSK 2022
+#Fri Jun 24 06:08:32 MSK 2022
 drawWireframes=true
 oreSize=1.0
 ifTetrahedrite=true

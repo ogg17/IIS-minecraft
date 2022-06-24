@@ -1,3 +1,28 @@
 {
-  "parties:9": {}
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "003045b0-36f3-380e-9ef7-874149b976bb",
+          "status:8": "OWNER"
+        },
+        "1:10": {
+          "uuid:8": "820b351d-bf06-33de-9af6-ed8a94a74e6f",
+          "status:8": "INVITE"
+        },
+        "2:10": {
+          "uuid:8": "c08255a7-1d58-3083-b754-825a6e1e9c04",
+          "status:8": "INVITE"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "partySingleReward:1": 0,
+          "name:8": "SyvkSquad",
+          "partyShareLives:1": 0
+        }
+      }
+    }
+  }
 }
